@@ -108,7 +108,7 @@ Ganti URL gambar di `index.html` dengan URL gambar Anda:
 MIT License - Bebas pakai untuk personal dan komersial.
 
 ## 🙏 Credits
-
+Template open source boleh di edit kayak apapun dan minta tolong di tambahkan credit nya
 - Fonts: Google Fonts
 - Icons: Font Awesome 6
 - Images: Unsplash
@@ -116,4 +116,4 @@ MIT License - Bebas pakai untuk personal dan komersial.
 
 ---
 
-Made with ❤️ and 🍵 Matcha by Nippon Creative
+Made with ❤️ and 🍵 Matcha by Wildan Dev
